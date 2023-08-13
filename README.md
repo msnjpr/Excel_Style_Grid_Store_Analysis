@@ -6,7 +6,8 @@ and grow more sales in 2023
 I have done Data Cleaning, Data Processing, Data Analyzing & Created Dynamic & Interactive Dashboard
 
 
-Data Cleaning
+
+**Data Cleaning**
 
 I checked column by column if all the data is correct and looks good like no null values, All Order id are in numbers etc..
 
@@ -16,7 +17,8 @@ Same way for Women also it was written as Women or some where W only. To fix thi
 Also Quantity data was not in correct Format some written in Alphabets. So changed it to Numbers by Find & Replace
 
 
-Data Processing
+
+**Data Processing**
 
 I did some calculation that helps in analyzing the data
 
@@ -27,7 +29,8 @@ For this i have used IF Else condition = =IF(E2>=50,"Senior", IF(E2>=30,"Adult",
 Also Create a new column Month and take out month from the already existing column date by using Text formula 
 
 
-Data Analysis
+
+**Data Analysis**
 
 I have a created the following Pivot tables to analyse the data
 
@@ -40,9 +43,12 @@ I have a created the following Pivot tables to analyse the data
 6. Channels          -  Created a pivot table and put Channels in Rows & Count of Order ID in values then i used show Value as % of Grand Total and use 
                         Pie chart to visualize
 
-Dynamic & Interactive Dashboard
+
+
+**Dynamic & Interactive Dashboard**
 
 To make Pivot Charts dhynamic i have inserted 3 Slicers Month, Channels & Category and connected to all the charts
+
 
 
 Insights
@@ -51,6 +57,7 @@ Insights
 2. Women are more likely to buy compared to men (65%)
 3. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states
 4. Amazon, Flipkart and Myntra channels are max contributing (80%)
+
 
 
 **Final Conclusion to improve Style Grid Store**
