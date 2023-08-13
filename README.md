@@ -51,7 +51,7 @@ To make Pivot Charts dhynamic i have inserted 3 Slicers Month, Channels & Catego
 
 
 
-Insights
+**Insights**
 
 1. Adule age group (30-49 yrs) is max contributing (50%)
 2. Women are more likely to buy compared to men (65%)
